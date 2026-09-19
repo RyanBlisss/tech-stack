@@ -1,1 +1,24 @@
-# tech-stack
+The Tech Stack I'm Using - every day
+
+- Python:
+  - FastAPI
+  - Asyncpg
+  - Uvicorn
+  - JWT
+  - Stripe
+- JavaScript/TypeScript:
+  - React
+  - Tailwind
+  - MUI
+  - Radix UI
+  - Shadcn/UI
+  - Axios
+  - Cookie Consents
+- SQL:
+  - Postgres (psql)
+  - MySQL
+  - SQLite
+- Stripe
+- CMS(Strapi)
+- Docker
+- Invoices
